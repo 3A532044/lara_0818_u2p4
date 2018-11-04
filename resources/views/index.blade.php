@@ -1,4 +1,4 @@
-@extends('postsLayouts.master')
+@extends('layouts.master')
 
     @section('title', 'Clean Blog')
 
@@ -77,5 +77,4 @@
             </div>
         </div>
     </div>
-    <hr>
     @endsection
