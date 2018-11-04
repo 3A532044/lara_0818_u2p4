@@ -43,7 +43,7 @@
 
     <hr>
     <!-- Footer -->
-    @include(layouts.partials.footer)
+    @include('layouts.partials.footer')
     <title>@yield('title')</title>
 
     <!-- jQuery -->
